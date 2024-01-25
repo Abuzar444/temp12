@@ -1,7 +1,7 @@
 import React from "react";
 import { Link, Outlet } from "react-router-dom";
 
-import Wrapper from "../assets/wrappers/landingPage";
+import Wrapper from "../assets/wrappers/LandingPage.js";
 import projectTracker from "../assets/images/main.svg";
 import Logo from "../components/Logo.jsx";
 
